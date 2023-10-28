@@ -1,0 +1,7 @@
+@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+
+element-text, element-icon {
+    background-color: inherit;
+    text-color:       inherit;
+}
+

@@ -1,0 +1,13 @@
+@theme "~/.config/rofi/nord.rasi"
+
+
+element-icon { size: 1.65ch ; }
+
+configuration{
+  modes: "window,drun,run,ssh,file-browser-extended,filebrowser,emoji";
+  kb-accept-entry: "Return";
+  kb-remove-to-eol: "";
+  kb-row-up: "Up,Control+k";
+  kb-row-down: "Down,Control+j";
+}
+
