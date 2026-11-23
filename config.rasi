@@ -1,5 +1,5 @@
 configuration {
-    modes: "window,drun,run,ssh,file-browser-extended,filebrowser";
+    modes: "window,drun,run,ssh,filebrowser";
     kb-accept-entry: "Return";
     kb-remove-to-eol: "";
     kb-row-up: "Up,Control+k";
